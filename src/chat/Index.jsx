@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import "./Index.css";
+import "./index.css";
 
 const ChatApp = () => {
 
